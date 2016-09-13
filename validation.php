@@ -1,4 +1,5 @@
 <?php
+
 require('config/config.php');
 require('model/functions.fn.php');
 session_start();

@@ -1,9 +1,12 @@
 <?php
 
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
+
 $host = 'localhost';
 $dbname = 'IIM_Git_SoundCloud';
-$user = 'username';
-$pass = 'password';
+$user = 'root';
+$pass = 'root';
 
 
 try{
